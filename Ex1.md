@@ -1,5 +1,5 @@
 ## Ex.No: 1  
-Write a C++ Program to display the following pattern using inline function.  
+## Ex.name: Write a C++ Program to display the following pattern using inline function.  
 
 **Date:**  
 
