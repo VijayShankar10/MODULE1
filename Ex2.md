@@ -42,6 +42,6 @@ int main()
 
 ## Result:
 ```
-Input: 2 2 6
-The sum of GP series is 126
+Input: 1 100 5
+The sum is 496
 ```
