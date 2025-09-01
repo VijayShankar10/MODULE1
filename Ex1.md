@@ -38,6 +38,10 @@ int main() {
 ```
 
 ### Output:
+
+<img width="1167" height="330" alt="image" src="https://github.com/user-attachments/assets/a25b109e-b495-406b-a260-9376fd222d03" />
+
+### Result:
 ```cpp
 Input: 4
 ****
@@ -46,11 +50,5 @@ Input: 4
 *
 
 ```
-
-### Result:
-
-<img width="1167" height="330" alt="image" src="https://github.com/user-attachments/assets/a25b109e-b495-406b-a260-9376fd222d03" />
-
-
 
 
