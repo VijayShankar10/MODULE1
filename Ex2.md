@@ -3,7 +3,7 @@
 ## Date:
 
 ## Aim:
-To compute the sum of a Geometric Progression series using a friend function.
+To compute the the sum of AP series using friend function.
 
 ## Algorithm:
 1. Start the program.
@@ -16,39 +16,31 @@ To compute the sum of a Geometric Progression series using a friend function.
 ## Program:
 ```cpp
 #include <iostream>
-#include <cmath>
 using namespace std;
-
-class GP {
-    int a, r, n;
-public:
-    GP(int x, int y, int z) {
-        a = x; r = y; n = z;
+class student
+{
+    public:
+    int apseries(int a,int n,int d)
+    {
+        return a+(n-1)*d;
     }
-    friend void sumGP(GP g);
+
 };
-
-void sumGP(GP g) {
-    long long sum;
-    sum = g.a * (pow(g.r, g.n) - 1) / (g.r - 1);
-    cout << "The sum of GP series is " << sum;
-}
-
-int main() {
-    int a, r, n;
-    cin >> a >> r >> n;
-    GP g(a, r, n);
-    sumGP(g);
-    return 0;
+int main()
+{
+    int a,n,d;
+    cin>>a>>n>>d;
+    student g;
+    cout<<"the sum is "<<g.apseries(a,n,d);
 }
 ```
 
-
 ## Output:
+<img width="1176" height="541" alt="image" src="https://github.com/user-attachments/assets/45cd806f-a09a-4787-84b1-d51ec9368259" />
+
+
+## Result:
 ```
 Input: 2 2 6
 The sum of GP series is 126
 ```
-
-## Result:
-<img width="1176" height="541" alt="image" src="https://github.com/user-attachments/assets/45cd806f-a09a-4787-84b1-d51ec9368259" />
