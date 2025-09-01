@@ -36,13 +36,12 @@ int main() {
 }
 ```
 
+
 ## Output:
+<img width="1175" height="290" alt="image" src="https://github.com/user-attachments/assets/a457bc5e-1de3-4347-a75a-857e234ad31d" />
+
+## Result:
 ```
 95x+64
 22x^2+28x+21
 ```
-
-
-## Result:
-<img width="1175" height="290" alt="image" src="https://github.com/user-attachments/assets/a457bc5e-1de3-4347-a75a-857e234ad31d" />
-
