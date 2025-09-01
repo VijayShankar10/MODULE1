@@ -36,10 +36,12 @@ int main() {
     return 0;
 }
 ```
+
 ## Output:
+<img width="1192" height="374" alt="image" src="https://github.com/user-attachments/assets/736bc154-3176-480e-b57a-9561434d413d" />
+
+## Result:
 ```
 Input: 8
 Even Numbers are: 2 4 6 8
 ```
-## Result:
-<img width="1192" height="374" alt="image" src="https://github.com/user-attachments/assets/736bc154-3176-480e-b57a-9561434d413d" />
