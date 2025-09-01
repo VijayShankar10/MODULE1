@@ -39,14 +39,12 @@ int main() {
 }
 ```
 
-
 ## Output:
+<img width="1175" height="427" alt="image" src="https://github.com/user-attachments/assets/5331e859-ee88-418a-8fe9-118b5f4c5770" />
+
+## Result:
 ```
 Input: 50 4
 The quotient of the division is:12
 The remainder of the division is:2
 ```
-
-## Result:
-<img width="1175" height="427" alt="image" src="https://github.com/user-attachments/assets/5331e859-ee88-418a-8fe9-118b5f4c5770" />
-
